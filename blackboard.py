@@ -3,12 +3,12 @@
 
 '''blackboard.py
 
-    :Author:    Eduardo A. Bustamante López
-    :Contact:   ebustamante@dualbus.com
-    :Version:   0.9
-    :Copyright: None
-    :Abstract:  Core BlackBoard client classes.
-    :Depends:   - Python 2.x
+    :author:    Eduardo A. Bustamante López
+    :contact:   dualbus@gmail.com
+    :version:   0.9
+    :copyright: none
+    :abstract:  core BlackBoard client classes.
+    :depends:   - Python 2.x
                 - lxml
     
 '''
